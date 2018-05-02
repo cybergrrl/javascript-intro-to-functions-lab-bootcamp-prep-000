@@ -10,3 +10,5 @@ function logShout(string) {
   string.toLowerCase()
   console.log(string)
 }
+
+return 'Hi there'.logShout
