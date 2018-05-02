@@ -19,7 +19,7 @@ function testCase(string) {
 }
 
 function sayHiToGrandma(string) {
-  if string.toLowerCase === string // true {
+  if string.toLowerCase === string {
     return "I can't hear you!"
   }
 }
